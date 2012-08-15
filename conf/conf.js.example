@@ -1,0 +1,6 @@
+config.auth = {}; 
+
+config.auth.username: 'username'
+config.auth.apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+
+module.exports = config;

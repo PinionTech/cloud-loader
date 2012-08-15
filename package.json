@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "name": "cloud-loader",
+  "version": "0.0.0",
+  "bin": "./bin/cloud-loader",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "coffee-script": "*",
+    "optimist": "*",
+    "findit": "*",
+    "cloudfiles": "git://github.com/davidbanham/node-cloudfiles.git#master"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
